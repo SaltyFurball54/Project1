@@ -10,6 +10,7 @@ namespace Project1
             var context = new AppDbContext();
             while (true)
             {
+
                 
                 Console.WriteLine("\n1. Show ");
                 Console.WriteLine("2. Add ");
